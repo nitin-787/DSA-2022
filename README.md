@@ -6,3 +6,4 @@
 ## Solved Questions
 
 ### Nov 1 - [Binary Search](https://github.com/nitin-787/DSA-2022/blob/main/BinarySearch.java)
+### Nov 2 - [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
