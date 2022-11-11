@@ -11,3 +11,4 @@
 ### Nov 4 - [Missing Number](https://leetcode.com/problems/missing-number/)
 ### Nov 5 - [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
 ### Nov 6 - [Sort an array](https://leetcode.com/problems/sort-an-array/)
+### Nov 7 - [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
