@@ -13,4 +13,5 @@
 ### Nov 6 - [Sort an array](https://leetcode.com/problems/sort-an-array/)
 ### Nov 7 - [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 ### Nov 7 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
-### Nov 7 - [Find All the Duplicate Number](https://leetcode.com/problems/find-all-duplicates-in-an-array/ )
+### Nov 8 - [Find All the Duplicate Number](https://leetcode.com/problems/find-all-duplicates-in-an-array/ )
+
