@@ -12,6 +12,7 @@
 ### Nov 5 - [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
 ### Nov 6 - [Sort an array](https://leetcode.com/problems/sort-an-array/)
 ### Nov 7 - [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
-### Nov 7 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
-### Nov 8 - [Find All the Duplicate Number](https://leetcode.com/problems/find-all-duplicates-in-an-array/ )
+### Nov 8 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+### Nov 9 - [Find All the Duplicate Number](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+### Nov 10 - [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 
