@@ -16,5 +16,6 @@
 ### Nov 9 - [Find All the Duplicate Number](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 ### Nov 10 - [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 ### Nov 11 - [Search in Roated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-### Nov 12 - [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/ )
+### Nov 12 - [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
+### Nov 13 - [Find All the disappeared number in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 
