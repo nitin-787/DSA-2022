@@ -19,4 +19,5 @@
 ### Nov 12 - [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)
 ### Nov 13 - [Find All the disappeared number in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 ### Nov 14 - [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
+### Nov 15 - [Power of two](https://leetcode.com/problems/power-of-two/)
 
