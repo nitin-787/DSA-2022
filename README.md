@@ -20,4 +20,5 @@
 ### Nov 13 - [Find All the disappeared number in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 ### Nov 14 - [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 ### Nov 15 - [Power of two](https://leetcode.com/problems/power-of-two/)
+### Nov 16 - [Reverse String](https://leetcode.com/problems/reverse-string/)
 
