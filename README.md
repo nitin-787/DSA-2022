@@ -24,4 +24,5 @@
 ### Nov 18 - [Sort Colors](https://leetcode.com/problems/sort-colors/)
 ### Nov 19 - [Set Mismatch](https://leetcode.com/problems/set-mismatch/)
 ### Nov 20 - [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
+### Nov 21 - [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
 
