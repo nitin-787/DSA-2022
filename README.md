@@ -27,4 +27,5 @@
 ### Nov 21 - [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
 ### Nov 22 - [Flip an Image](https://leetcode.com/problems/flipping-an-image/) 
 ### Nov 23 - [Missing Number - new method](https://leetcode.com/problems/missing-number/)
-### Nov 24 - [First Missinig Positive](https://leetcode.com/problems/first-missing-positive/ )
+### Nov 24 - [First Missinig Positive](https://leetcode.com/problems/first-missing-positive/)
+### Nov 25 - [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
