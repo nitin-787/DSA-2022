@@ -32,3 +32,4 @@
 ### Nov 26 - [Pow(x, n)](https://leetcode.com/problems/powx-n/)
 ### Nov 27 - [Rotate an Array](https://leetcode.com/problems/rotate-array/)
 ### Nov 28 - [Two sum](https://leetcode.com/problems/two-sum)
+### Nov 29 - [Number of one bit](https://leetcode.com/problems/number-of-1-bits/)
