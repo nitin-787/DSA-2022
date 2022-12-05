@@ -34,3 +34,4 @@
 ### Nov 28 - [Two sum](https://leetcode.com/problems/two-sum)
 ### Nov 29 - [Number of one bit](https://leetcode.com/problems/number-of-1-bits/)
 ### Nov 30 - [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)
+### Dec 1 - [Minimum in Rotated Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
