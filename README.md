@@ -36,3 +36,4 @@
 ### Nov 30 - [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)
 ### Dec 1 - [Minimum in Rotated Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 ### Dec 2 - [Vaild Mountain array](https://leetcode.com/problems/valid-mountain-array)
+### Dec 3 - [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
